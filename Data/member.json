@@ -200,14 +200,21 @@
             "linkedinurl": "https://www.linkedin.com/in/surajverma-sv"
 
         },
-       {
+        {
             "name": "Usama Ejaz",
             "avatar": "https://avatars1.githubusercontent.com/u/45048065?s=460&u=fbd1560e0aed210e541e0d0aac3b53d4b6e33739&v=4",
             "description": "Software Engineer",
             "githuburl": "https://github.com/UsamaEjaz0",
             "linkedinurl": "https://www.linkedin.com/in/usamaejaz0/"
-      }
-
+        },
+        
+        {
+            "name": "Shubhi Manral",
+            "avatar": "https://avatars3.githubusercontent.com/u/64209503?v=4",
+            "description": "Data Science Enthusiast",
+            "githuburl": "https://github.com/Shubhi550",
+            "linkedinurl": "https://www.linkedin.com/in/shubhi-manral"
+        }
 
     ]
 }
