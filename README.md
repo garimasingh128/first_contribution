@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Inayat61"><img src="https://avatars2.githubusercontent.com/u/49411975?v=4" width="100px;" alt=""/><br /><sub><b>Inayat61</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=Inayat61" title="Code">💻</a></td>
     <td align="center"><a href="https://umairjibran.github.io/"><img src="https://avatars1.githubusercontent.com/u/43789374?v=4" width="100px;" alt=""/><br /><sub><b>Umair Jibran</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=UmairJibran" title="Code">💻</a></td>
     <td align="center"><a href="https://about.me/usamaliaquat"><img src="https://avatars0.githubusercontent.com/u/33973828?v=4" width="100px;" alt=""/><br /><sub><b>Usama Liaquat</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=Usamaliaquat123" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/coolpulkit"><img src="https://avatars0.githubusercontent.com/u/54586310?s=400&u=afd19f32eed17ed82cdf4ed681160119bd5f9234&v=4" width="100px;" alt=""/><br /><sub><b>Pulkit Goyal</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=coolpulkit" title="Code">💻</a></td>
   </tr>
 </table>
 
