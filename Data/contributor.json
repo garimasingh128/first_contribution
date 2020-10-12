@@ -13,6 +13,13 @@
             "description": "Web Developer",
             "githuburl": "https://github.com/Inayat61",
             "linkedinurl": "www.linkedin.com/in/inayat-ali-58b7a817b"
-        }
+        },
+        {
+            "name": "Pulkit Goyal",
+            "avatar": "https://avatars0.githubusercontent.com/u/54586310?s=400&u=afd19f32eed17ed82cdf4ed681160119bd5f9234&v=4",
+            "description": "Android and Web Full Stack Developer",
+            "githuburl": "https://github.com/coolpulkit",
+            "linkedinurl": "https://www.linkedin.com/in/coolpulkit/"
+      }
     ]
 }
